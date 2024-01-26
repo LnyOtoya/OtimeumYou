@@ -5,7 +5,7 @@ icon: home
 title: 音也时馆
 heroImage: logo.png
 heroText: 音也时馆
-bgImage: 
+bgImage: /assets/images/cover1.jpg
 heroFullScreen: true
 tagline: 
 projects:
